@@ -1,0 +1,19 @@
+
+#lineagris_top{
+   width: 98%;
+   position:absolute;
+   left:0;
+   background-color: #D8D8D9;
+   height: 35px;
+   color : #880DFC ;
+   
+   }
+footer{
+	width:98%;
+	background-color: #D8D8D9;
+	font-family: alegreya-light;
+	height: 30px;
+	padding: 5px;
+
+
+}
